@@ -1,0 +1,9 @@
+*.iml
+*.xml
+*.jpg
+*.png
+*.meta
+*.pt
+*.npy
+data
+temp_files
