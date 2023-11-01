@@ -9,9 +9,11 @@ Testing various neural architectures on simple toysets
 ## To be implemented
 - Denoising Diffusion Probabilistic Model (DDPM)
     - ~~Code~~ | [Paper](https://arxiv.org/pdf/2006.11239.pdf)
-- Score-based Stochastic Differential Equations Variance Preserving
+- Denoising Diffusion Implicit Model (DDIM)
+    - ~~Code~~ | [Paper](https://arxiv.org/pdf/2010.02502.pdf)
+- Score-based Stochastic Differential Equations Variance Preserving (SDE-VP)
     - ~~Code~~ | [Paper](https://arxiv.org/pdf/2011.13456.pdf)
-- Score-based Stochastic Differential Equations Variance Exploding
+- Score-based Stochastic Differential Equations Variance Exploding (SDE-VE)
     - ~~Code~~ | [Paper](https://arxiv.org/pdf/2011.13456.pdf)
 
 ## Future work
